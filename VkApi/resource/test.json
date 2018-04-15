@@ -1,0 +1,23 @@
+{
+  "friends": [
+    {
+      "id": 185560,
+      "first_name": "Ярослав",
+      "last_name": "Новосельцев",
+      "photo_200": "https://pp.userapi.com/c626223/v626223560/5540d/tFmLbVXYzj4.jpg",
+      "counters": {
+        "albums": 5,
+        "videos": 200,
+        "audios": 1392,
+        "notes": 8,
+        "photos": 646,
+        "friends": 1331,
+        "online_friends": 190,
+        "mutual_friends": 26,
+        "followers": 665,
+        "subscriptions": 9,
+        "pages": 86
+      }
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "friends": [
+    {
+      "id": 185560,
+      "first_name": "Ярослав",
+      "last_name": "Новосельцев",
+      "photo_200": "https://pp.userapi.com/c626223/v626223560/5540d/tFmLbVXYzj4.jpg",
+      "counters": {
+        "albums": 5,
+        "videos": 200,
+        "audios": 10,
+        "notes": 8,
+        "photos": 646,
+        "friends": 15,
+        "online_friends": 73,
+        "mutual_friends": 26,
+        "followers": 664,
+        "subscriptions": 9,
+        "pages": 86
+      }
+    },
+    {
+      "id": 192006,
+      "first_name": "Александр",
+      "last_name": "Владимиров",
+      "photo_200": "https://sun9-6.userapi.com/c824701/v824701953/5763c/EClTFmuVHeI.jpg",
+      "counters": {
+        "albums": 15,
+        "videos": 64,
+        "audios": 3,
+        "notes": 5,
+        "photos": 1494,
+        "gifts": 18,
+        "friends": 4,
+        "online_friends": 646,
+        "mutual_friends": 3,
+        "user_photos": 381,
+        "followers": 2498,
+        "subscriptions": 51,
+        "pages": 78
+      }
+    },
+    {
+      "id": 413985,
+      "first_name": "Анна",
+      "last_name": "Карнаухова",
+      "photo_200": "https://pp.userapi.com/c846416/v846416636/8d56/GdDFyxPmtBs.jpg",
+      "counters": {
+        "albums": 24,
+        "videos": 862,
+        "audios": 24,
+        "notes": 51,
+        "photos": 528,
+        "groups": 1962,
+        "gifts": 32,
+        "friends": 16,
+        "online_friends": 267,
+        "mutual_friends": 20,
+        "user_photos": 600,
+        "followers": 2017,
+        "subscriptions": 514,
+        "pages": 98
+      }
+    },
+    {
+      "id": 779928,
+      "first_name": "Юрчелло",
+      "last_name": "Кудрявый",
+	  "photo_200": "https://pp.userapi.com/c846416/v846416636/8d56/GdDFyxPmtBs.jpg",
+      "counters": {
+        "albums": 2,
+        "videos": 0,
+        "audios": 5,
+        "notes": 0,
+        "photos": 1,
+        "groups": 42,
+        "gifts": 1,
+        "friends": 2,
+        "online_friends": 4,
+        "mutual_friends": 3,
+        "user_photos": 4,
+        "followers": 13,
+        "subscriptions": 0,
+        "pages": 5
+      }
+    },
+    {
+      "id": 996514,
+      "first_name": "Денис",
+      "last_name": "Долгодворов",
+      "photo_200": "https://sun9-8.userapi.com/c840534/v840534883/550c2/q2EBFSfyhoc.jpg",
+      "counters": {
+        "albums": 54,
+        "videos": 776,
+        "audios": 44,
+        "notes": 0,
+        "photos": 1697,
+        "gifts": 22,
+        "friends": 10,
+        "online_friends": 56,
+        "mutual_friends": 21,
+        "user_photos": 491,
+        "followers": 151,
+        "subscriptions": 25,
+        "pages": 103
+      }
+    }
+  ]
+}

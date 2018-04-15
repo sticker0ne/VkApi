@@ -1,0 +1,402 @@
+{
+  "friends": [
+    {
+      "id": 44586025,
+      "first_name": "Тимур",
+      "last_name": "Ахметжанов",
+      "photo_200": "https://pp.userapi.com/c626918/v626918025/1857e/AajhMOH9lgM.jpg",
+      "counters": {
+        "albums": 1,
+        "videos": 178,
+        "audios": 536,
+        "notes": 3,
+        "photos": 113,
+        "friends": 614,
+        "online_friends": 67,
+        "mutual_friends": 15,
+        "followers": 586,
+        "subscriptions": 10,
+        "pages": 54
+      }
+    },
+    {
+      "id": 48034262,
+      "first_name": "Виктор",
+      "last_name": "Салтымаков",
+      "photo_200": "https://pp.userapi.com/c633223/v633223262/540b0/GxVKQmaSfhY.jpg",
+      "counters": {
+        "albums": 7,
+        "videos": 146,
+        "audios": 0,
+        "notes": 0,
+        "photos": 1118,
+        "groups": 431,
+        "gifts": 8,
+        "friends": 1639,
+        "online_friends": 80,
+        "mutual_friends": 43,
+        "user_photos": 465,
+        "followers": 103,
+        "subscriptions": 4,
+        "pages": 53
+      }
+    },
+    {
+      "id": 48144009,
+      "first_name": "Виктория",
+      "last_name": "Подмарькова",
+      "photo_200": "https://pp.userapi.com/c638118/v638118009/13f7c/cxwVFlV0BAU.jpg",
+      "counters": {
+        "albums": 2,
+        "videos": 71,
+        "audios": 0,
+        "notes": 0,
+        "photos": 39,
+        "friends": 333,
+        "online_friends": 37,
+        "mutual_friends": 23,
+        "followers": 388,
+        "subscriptions": 11,
+        "pages": 109
+      }
+    },
+    {
+      "id": 280613852,
+      "first_name": "Евгения",
+      "last_name": "Соколова",
+      "photo_200": "https://pp.userapi.com/c841424/v841424639/7df1c/AfZHn73NJtM.jpg",
+      "counters": {
+        "albums": 0,
+        "videos": 73,
+        "audios": 894,
+        "notes": 0,
+        "photos": 21,
+        "gifts": 64,
+        "friends": 311,
+        "online_friends": 46,
+        "mutual_friends": 33,
+        "user_photos": 16,
+        "followers": 110,
+        "subscriptions": 0,
+        "pages": 49
+      }
+    },
+    {
+      "id": 13862520,
+      "first_name": "DELETED",
+      "last_name": "",
+      "deactivated": "deleted"
+    },
+    {
+      "id": 229568264,
+      "first_name": "Лейла",
+      "last_name": "Алиева",
+      "photo_200": "https://sun9-5.userapi.com/c834301/v834301914/ca907/c6xuRQgR0Cc.jpg",
+      "counters": {
+        "albums": 0,
+        "videos": 93,
+        "audios": 1126,
+        "notes": 0,
+        "photos": 102,
+        "groups": 515,
+        "gifts": 35,
+        "friends": 270,
+        "online_friends": 16,
+        "mutual_friends": 17,
+        "user_photos": 2,
+        "followers": 207,
+        "subscriptions": 2,
+        "pages": 167
+      }
+    },
+    {
+      "id": 215680638,
+      "first_name": "Александра",
+      "last_name": "Македонская",
+      "photo_200": "https://pp.userapi.com/c841123/v841123165/46cb4/kvTHx0z2cV0.jpg",
+      "counters": {
+        "albums": 0,
+        "videos": 94,
+        "audios": 0,
+        "notes": 0,
+        "photos": 274,
+        "friends": 248,
+        "online_friends": 33,
+        "mutual_friends": 19,
+        "followers": 70,
+        "subscriptions": 1,
+        "pages": 58
+      }
+    },
+    {
+      "id": 212389891,
+      "first_name": "Лиза",
+      "last_name": "Чукова",
+      "photo_200": "https://pp.userapi.com/c840237/v840237140/7db4c/eMDAt-yL-dI.jpg",
+      "counters": {
+        "albums": 1,
+        "videos": 7,
+        "audios": 0,
+        "notes": 0,
+        "photos": 25,
+        "gifts": 85,
+        "friends": 127,
+        "online_friends": 21,
+        "mutual_friends": 7,
+        "user_photos": 0,
+        "followers": 154,
+        "subscriptions": 0,
+        "pages": 66
+      }
+    },
+    {
+      "id": 15530405,
+      "first_name": "Дима",
+      "last_name": "Колпащиков",
+      "counters": {
+        "albums": 0,
+        "videos": 0,
+        "audios": 0,
+        "notes": 0,
+        "photos": 0,
+        "gifts": 1,
+        "friends": 50,
+        "online_friends": 6,
+        "mutual_friends": 3,
+        "user_photos": 0,
+        "followers": 7,
+        "subscriptions": 0,
+        "pages": 1
+      }
+    },
+    {
+      "id": 193080556,
+      "first_name": "Ol",
+      "last_name": "Oazis",
+      "photo_200": "https://sun9-5.userapi.com/c824409/v824409677/e326f/MVLKmSvWQQM.jpg",
+      "counters": {
+        "albums": 1,
+        "videos": 75,
+        "audios": 431,
+        "notes": 0,
+        "photos": 195,
+        "gifts": 88,
+        "friends": 391,
+        "online_friends": 38,
+        "mutual_friends": 25,
+        "user_photos": 0,
+        "followers": 302,
+        "subscriptions": 1,
+        "pages": 333
+      }
+    },
+    {
+      "id": 151989427,
+      "first_name": "Дмитрий",
+      "last_name": "Волков",
+      "photo_200": "https://sun9-3.userapi.com/c830709/v830709317/37f52/Nb6ro3IziHQ.jpg",
+      "counters": {
+        "albums": 1,
+        "videos": 1799,
+        "audios": 0,
+        "notes": 0,
+        "photos": 176,
+        "groups": 110,
+        "friends": 399,
+        "online_friends": 31,
+        "mutual_friends": 38,
+        "user_photos": 7,
+        "followers": 280,
+        "subscriptions": 0,
+        "pages": 57
+      }
+    },
+    {
+      "id": 169128315,
+      "first_name": "Никита",
+      "last_name": "Шишканов",
+      "photo_200": "https://pp.userapi.com/c841627/v841627259/2fc30/lHeJYjAlOJ4.jpg",
+      "counters": {
+        "albums": 0,
+        "videos": 110,
+        "audios": 450,
+        "notes": 0,
+        "photos": 111,
+        "gifts": 59,
+        "friends": 198,
+        "online_friends": 28,
+        "mutual_friends": 19,
+        "user_photos": 4,
+        "followers": 123,
+        "subscriptions": 0,
+        "pages": 53
+      }
+    },
+    {
+      "id": 83341998,
+      "first_name": "Иван",
+      "last_name": "Полежайкин",
+      "photo_200": "https://pp.userapi.com/c841638/v841638999/430ea/o53PIloAlJs.jpg",
+      "counters": {
+        "albums": 8,
+        "videos": 105,
+        "audios": 0,
+        "notes": 2,
+        "photos": 336,
+        "groups": 258,
+        "gifts": 26,
+        "friends": 347,
+        "online_friends": 23,
+        "mutual_friends": 2,
+        "user_photos": 85,
+        "followers": 83,
+        "subscriptions": 16,
+        "pages": 102
+      }
+    },
+    {
+      "id": 95270734,
+      "first_name": "Максим",
+      "last_name": "Никитин",
+      "counters": {
+        "albums": 3,
+        "videos": 37,
+        "audios": 52,
+        "notes": 1,
+        "photos": 40,
+        "groups": 28,
+        "gifts": 0,
+        "friends": 104,
+        "online_friends": 3,
+        "mutual_friends": 7,
+        "user_photos": 0,
+        "followers": 21,
+        "subscriptions": 27,
+        "pages": 3
+      }
+    },
+    {
+      "id": 52121707,
+      "first_name": "Максим",
+      "last_name": "Меликов",
+      "photo_200": "https://pp.userapi.com/c625618/v625618707/cd6f/EZY4vTFNH8o.jpg",
+      "counters": {
+        "albums": 7,
+        "videos": 44,
+        "audios": 853,
+        "notes": 0,
+        "photos": 618,
+        "gifts": 22,
+        "friends": 319,
+        "online_friends": 20,
+        "mutual_friends": 16,
+        "user_photos": 100,
+        "followers": 38,
+        "subscriptions": 0,
+        "pages": 53
+      }
+    },
+    {
+      "id": 194538491,
+      "first_name": "Алексей",
+      "last_name": "Родченко",
+      "photo_200": "https://sun9-3.userapi.com/c840736/v840736378/683cc/BlXGxnvThqY.jpg",
+      "counters": {
+        "albums": 1,
+        "videos": 8,
+        "audios": 83,
+        "notes": 0,
+        "photos": 608,
+        "groups": 14,
+        "gifts": 4,
+        "friends": 168,
+        "online_friends": 12,
+        "mutual_friends": 16,
+        "user_photos": 1,
+        "followers": 26,
+        "subscriptions": 0,
+        "pages": 5
+      }
+    },
+    {
+      "id": 72931510,
+      "first_name": "Anastasiia",
+      "last_name": "Sivushina",
+      "photo_200": "https://pp.userapi.com/c615820/v615820510/1bf2a/yJ6JbA5LWAk.jpg",
+      "counters": {
+        "albums": 1,
+        "videos": 612,
+        "audios": 0,
+        "notes": 1,
+        "photos": 42,
+        "gifts": 13,
+        "friends": 134,
+        "online_friends": 11,
+        "mutual_friends": 9,
+        "user_photos": 10,
+        "followers": 254,
+        "subscriptions": 0,
+        "pages": 53
+      }
+    },
+    {
+      "id": 161004770,
+      "first_name": "Рафаэль",
+      "last_name": "Мнацаканян",
+      "photo_200": "https://pp.userapi.com/c836338/v836338142/5914f/NkfInngABfs.jpg",
+      "counters": {
+        "albums": 0,
+        "videos": 5,
+        "audios": 869,
+        "notes": 0,
+        "photos": 9,
+        "friends": 104,
+        "online_friends": 15,
+        "mutual_friends": 18,
+        "followers": 56,
+        "subscriptions": 0,
+        "pages": 16
+      }
+    },
+    {
+      "id": 46104191,
+      "first_name": "Юлия",
+      "last_name": "Боткина",
+      "photo_200": "https://sun9-1.userapi.com/c830609/v830609804/b3008/h6Sph4DVuz0.jpg",
+      "counters": {
+        "albums": 2,
+        "videos": 51,
+        "audios": 0,
+        "notes": 0,
+        "photos": 245,
+        "friends": 260,
+        "online_friends": 44,
+        "mutual_friends": 27,
+        "followers": 0,
+        "subscriptions": 0,
+        "pages": 12
+      }
+    },
+    {
+      "id": 50136045,
+      "first_name": "Аля",
+      "last_name": "Диденко",
+      "photo_200": "https://sun9-5.userapi.com/c824202/v824202165/b202e/nnuhKnUxLmw.jpg",
+      "counters": {
+        "albums": 3,
+        "videos": 53,
+        "audios": 491,
+        "notes": 1,
+        "photos": 682,
+        "gifts": 6,
+        "friends": 644,
+        "online_friends": 49,
+        "mutual_friends": 41,
+        "user_photos": 133,
+        "followers": 146,
+        "subscriptions": 0,
+        "pages": 34
+      }
+    }
+  ]
+}
